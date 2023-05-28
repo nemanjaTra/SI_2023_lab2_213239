@@ -7,3 +7,9 @@
 ### Цикломатската комплексност
   Бр на ребра - Бр на јазли + 2 -> 31 - 22 + 2 = 11 </br>
   Бр на региони + 1 ->  10 + 1 = 11  
+
+### Тест случаи според критериумот Multiple Condition
+1- user = null.</br>
+2- user != null ; password = null.</br>
+3- user != null ; email != null ; password != null.</br>
+4- user != null ; email = null ; password !=null .
