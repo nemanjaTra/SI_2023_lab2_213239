@@ -18,6 +18,6 @@
 3- user != null ; email != null ; password != null.</br>
 4- user != null ; email = null ; password !=null .
 
-### Објаснување на напишаните unit tests
+### Објаснување на напишаните Unit Tests
 
 
