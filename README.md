@@ -15,7 +15,9 @@
 3- user.username = null; user.email = hello@yahoo.com; user.pass= '09876'; allUSers =[raz,raz,isto].</br>
 4- user.pass= '098 765432'; allUSers = [].</br>
 5- user.username= 'username'; user.email= 'none'; user.pass= '0987654@&'; allUSers = [].  
-
+#### x- било кој</br>
+### raz- различни корисници</br>
+### same- ист корисник 
 ### Тест случаи според критериумот Multiple Condition
 1- user = null.</br>
 2- user != null ; password = null.</br>
