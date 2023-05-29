@@ -9,8 +9,11 @@
   Бр на региони + 1 ->  10 + 1 = 11  
 ### Тест случаи според критериумот Every Branch
 
-
-
+1- user = null ; allUsers = x.</br>
+2 - user.username = 'username'; user.email= 'none'; user.pass = '098765432'; allUsers = [x].</br>
+3- user.username = null; user.email = hello@yahoo.com; user.pass= '09876'; allUSers =[raz,raz,isto].</br>
+4- user.pass= '098 765432'; allUSers = [].</br>
+5- user.username= 'username'; user.email= 'none'; user.pass= '0987654@&'; allUSers = [].  
 
 ### Тест случаи според критериумот Multiple Condition
 1- user = null.</br>
