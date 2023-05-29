@@ -2,7 +2,8 @@
 ## Немања Трајановски 213239
 ### Control Flow Graph
 
-![SI-lab2](https://github.com/nemanjaTra/SI_2023_lab2_213239/assets/127133275/7526c716-268e-43a3-8cff-4679e005a516)
+![SI-lab2](https://github.com/nemanjaTra/SI_2023_lab2_213239/assets/127133275/1104f311-0174-436b-84c3-b2c10157e6aa)
+
 
 ### Цикломатската комплексност
   Бр на ребра - Бр на јазли + 2 -> 31 - 22 + 2 = 11 </br>
