@@ -23,5 +23,9 @@
 4- user != null ; email = null ; password !=null .
 
 ### Објаснување на напишаните Unit Tests
-
-
+#### Multiple Condition
+1 - T X X</br>
+2 - F T X</br>
+3 - F F F</br>
+4 - F F T</br>
+F -false  ;  T- true  ;  X-bilo koj(rand)
