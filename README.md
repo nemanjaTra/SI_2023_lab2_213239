@@ -23,6 +23,7 @@
 4- user != null ; email = null ; password !=null .
 
 ### Објаснување на напишаните Unit Tests
+#### Every Branch
 #### Multiple Condition
 1 - T X X</br>
 2 - F T X</br>
