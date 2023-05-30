@@ -28,4 +28,4 @@
 2 - F T X</br>
 3 - F F F</br>
 4 - F F T</br>
-F -false  ;  T- true  ;  X-bilo koj(rand)
+F -false  ;  T- true  ;  X-bilo koj(rand).
